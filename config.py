@@ -23,6 +23,6 @@ class temp(object):
     lock = {}
     CANCEL = {}
     forwardings = 0
-    BANNED_USERS = [6317211079]
+    BANNED_USERS = [7154442141]
     IS_FRWD_CHAT = []
     
